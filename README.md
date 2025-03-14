@@ -503,7 +503,8 @@ Criar o index.html:
 
 Criar o styles.css:
 
-```body {
+```
+body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: #f4f4f4;
